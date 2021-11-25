@@ -19,7 +19,7 @@ class Player {
 
   life() {
     push();
-   //write a correct code to show lives as three green rectangles in a strainght line.
+   //escribe el código correcto para mostrar las vidas como tres rectángulos verdes en una línea horizontal.
    
     pop();
   }
